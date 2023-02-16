@@ -174,7 +174,8 @@ ul li a:hover{
 .form-mobile{
     width: 251px;
     height: 380px;
-    background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
+    /*background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);*/
+    background-color: black;
     position: absolute;
     top: -20px;
     left: 1100px;
